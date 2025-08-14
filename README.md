@@ -39,7 +39,8 @@ Turning raw data into clear, actionable insights with Excel, Power BI, SQL, and 
 
 ## 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/muhammad-qasim-sial-00994a378/)
-📧 [sial.insights@gmail.com](mailto:sial.insights@gmail.com)
+[![Email Me](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sial.insights@gmail.com)
+
 
 ---
 💡 *"Data is not just numbers; it’s a story waiting to be told."*
