@@ -31,6 +31,18 @@ Turning raw data into clear, actionable insights with Excel, Power BI, SQL, and 
 
 ---
 
+## 🏅 Certifies
+
+| Certification |
+
+<p align="left">
+<a href="https://github.com/sial22/SQL">
+  <img src="https://img.shields.io/badge/SQL-IBM-orange?style=for-the-badge&logo=postgresql" alt="SQL Certificate"/>
+</a>
+
+</p>
+---
+
 ## 🏅 Certified Skills
 
 | Skill & Certification |
