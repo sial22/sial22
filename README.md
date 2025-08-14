@@ -31,6 +31,17 @@ Turning raw data into clear, actionable insights with Excel, Power BI, SQL, and 
 
 ---
 
+## 🏅 Certified Skills
+
+| Skill & Certification | Badge |
+|-----------------------|-------|
+| **Statistics** (IBM Cognitive Class) | [![Statistics](https://img.shields.io/badge/Statistics-IBM-blue?style=for-the-badge&logo=ibm)](#) |
+| **SQL** (IBM Cognitive Class) | [![SQL](https://img.shields.io/badge/SQL-IBM-orange?style=for-the-badge&logo=mysql)](#) |
+| **Excel** (Udemy Certified) | [![Excel](https://img.shields.io/badge/Excel-Udemy-green?style=for-the-badge&logo=microsoft-excel)](#) |
+| **Power BI** (Udemy Certified) | [![Power BI](https://img.shields.io/badge/Power%20BI-Udemy-yellow?style=for-the-badge&logo=power-bi)](#) |
+
+---
+
 ## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sial22&show_icons=true&theme=default)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sial22&layout=compact)  
