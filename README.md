@@ -22,7 +22,7 @@ Turning raw data into clear, actionable insights with Excel, Power BI, SQL, and 
 
 ## 📌 Featured Projects  
 <p align="left">
-<a href="https://github.com/sial22/excel-finance-dashboard">
+
   <img src="https://img.shields.io/badge/Finance_Excel_Dashboard-Excel-blue?style=flat-square" alt="Finance Excel Dashboard"/>
 </a>
 <a href="https://github.com/sial22/ecommerce-analysis-sql-power-bi">
