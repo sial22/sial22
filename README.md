@@ -35,6 +35,7 @@ Turning raw data into clear, actionable insights with Excel, Power BI, SQL, and 
 
 | Skill & Certification |
 |-----------------------|
+<p align="left">
 <a href="https://github.com/sial22/SQL">
 [![SQL](https://img.shields.io/badge/SQL-IBM-orange?style=for-the-badge&logo=mysql)](#) |
 </p>
